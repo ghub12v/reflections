@@ -7,4 +7,6 @@ How is the staging area different from the working directory and the repository?
 
 Staging area contains only files in working directory, that will be commited to repository. Irrelevant files are excluded this way.
 
+How can you use the staging area to make sure you have one commit per logical change?
 
+It is possible to change multiple files and do more than one logical change - and put into staging area only those files, that correspond only one logical change.
