@@ -10,3 +10,12 @@ Staging area contains only files in working directory, that will be commited to 
 How can you use the staging area to make sure you have one commit per logical change?
 
 It is possible to change multiple files and do more than one logical change - and put into staging area only those files, that correspond only one logical change.
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches help, when, for example, you need to try different approach, but do not want to discard current functionality just now. Another case - fix bugs in main branch, while working on new functionality, that is not ready to be published yet.
+
+How do the diagrams help you visualize the branch structure?
+
+It shows, to whitch commit new branch is attached, and what changes were made to other branches after that.
