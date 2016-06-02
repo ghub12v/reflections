@@ -19,3 +19,8 @@ Branches help, when, for example, you need to try different approach, but do not
 How do the diagrams help you visualize the branch structure?
 
 It shows, to whitch commit new branch is attached, and what changes were made to other branches after that.
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Merging result is unchanged lines plus combined results of all changes.
