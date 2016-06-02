@@ -24,3 +24,9 @@ It shows, to whitch commit new branch is attached, and what changes were made to
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 Merging result is unchanged lines plus combined results of all changes.
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Pros: this approach lets focus on issues, that must be resolved manually.
+Cons: sometimes, there are more code to clean up.
