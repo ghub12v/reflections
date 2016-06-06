@@ -37,4 +37,6 @@ name). Combining changes would be much harder when number of recipient grows.
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+Making changes in separate branch allows to work on several separate changes,
+and merge as required.
+Working directly in master simplifies merge of pull requests.
